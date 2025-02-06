@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3b+EKP6egsU=",
+  "dgSpecHash": "et2KFnXDyXw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Core\\FinalProject.Core.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Core\\FinalProject.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

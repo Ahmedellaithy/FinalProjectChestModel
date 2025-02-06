@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Data\\FinalProject.Data.csproj": {}
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Data\\FinalProject.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Data\\FinalProject.Data.csproj": {
+    "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Data\\FinalProject.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Data\\FinalProject.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Data\\FinalProject.Data.csproj",
         "projectName": "FinalProject.Data",
-        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Data\\FinalProject.Data.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Data\\FinalProject.Data.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Data\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

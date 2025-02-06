@@ -10414,11 +10414,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Api\\FinalProject.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Api\\FinalProject.Api.csproj",
       "projectName": "FinalProject.Api",
-      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Api\\FinalProject.Api.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Api\\FinalProject.Api.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Api\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10439,8 +10439,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Core\\FinalProject.Core.csproj": {
-              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Core\\FinalProject.Core.csproj"
+            "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Core\\FinalProject.Core.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Core\\FinalProject.Core.csproj"
             }
           }
         }

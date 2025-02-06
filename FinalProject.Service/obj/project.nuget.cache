@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uNBCGcXrSZw=",
+  "dgSpecHash": "m20R7xzEWnQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Service\\FinalProject.Service.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Service\\FinalProject.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
