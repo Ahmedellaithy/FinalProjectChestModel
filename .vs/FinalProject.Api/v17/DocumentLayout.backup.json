@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\",
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BCE5013-0D26-4950-BBC6-D4358E28E674}|FinalProject.Api\\FinalProject.Api.csproj|c:\\users\\lenovo\\onedrive\\desktop\\finalproject.api\\finalproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7BCE5013-0D26-4950-BBC6-D4358E28E674}|FinalProject.Api\\FinalProject.Api.csproj|c:\\users\\lenovo\\onedrive\\desktop\\finalprojectchestmodel\\finalprojectchestmodel\\finalproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7BCE5013-0D26-4950-BBC6-D4358E28E674}|FinalProject.Api\\FinalProject.Api.csproj|solutionrelative:finalproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Api\\appsettings.json",
               "RelativeDocumentMoniker": "FinalProject.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProject.Api\\FinalProject.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\OneDrive\\Desktop\\FinalProjectChestModel\\FinalProjectChestModel\\FinalProject.Api\\appsettings.json",
               "RelativeToolTip": "FinalProject.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-06T03:15:32.005Z",
               "EditorCaption": ""

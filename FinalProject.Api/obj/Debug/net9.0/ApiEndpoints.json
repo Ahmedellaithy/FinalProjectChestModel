@@ -1,0 +1,309 @@
+[
+  {
+    "ContainingType": "FinalProject.Api.Controllers.AdminController",
+    "Method": "AddDoctor",
+    "RelativePath": "Api/v1/Admin/AddDoctor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "FinalProject.Core.CQRS.Admin.Commands.Request.AddDoctorByAdminCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.AdminController",
+    "Method": "EditDoctor",
+    "RelativePath": "Api/v1/Admin/EditDoctor",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "FinalProject.Core.CQRS.Admin.Commands.Request.EditDoctorByAdminCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.AdminController",
+    "Method": "GetAllReservations",
+    "RelativePath": "Api/v1/Admin/GetAllReservations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.AdminController",
+    "Method": "RemoveDoctor",
+    "RelativePath": "Api/v1/Admin/RemoveDoctor",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "doctor",
+        "Type": "FinalProject.Core.CQRS.Admin.Commands.Request.RemoveDoctorByAdminCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.AuthenticationController",
+    "Method": "LogIn",
+    "RelativePath": "Api/v1/Authentication/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "FinalProject.Core.CQRS.Authentication.Commands.Response.LogInCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.AuthenticationController",
+    "Method": "Register",
+    "RelativePath": "Api/v1/Authentication/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "register",
+        "Type": "FinalProject.Core.CQRS.Authentication.Commands.Response.RegisterCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.AuthenticationController",
+    "Method": "SetNewPassword",
+    "RelativePath": "Api/v1/Authentication/SetNewPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "password",
+        "Type": "FinalProject.Core.CQRS.Authentication.Commands.Response.SetNewPasswordCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.DoctorController",
+    "Method": "GetDoctorById",
+    "RelativePath": "Api/v1/Doctor/GetDoctorById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.DoctorController",
+    "Method": "GetDoctorsPaginated",
+    "RelativePath": "Api/v1/Doctor/GetDoctorsPaginated",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.DoctorController",
+    "Method": "GetDoctorReservations",
+    "RelativePath": "Api/v1/Doctor/GetReservationsByDoctorId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.PatientController",
+    "Method": "GetPatientById",
+    "RelativePath": "Api/v1/Patient/GetPatientById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.PatientController",
+    "Method": "UpdatePatient",
+    "RelativePath": "Api/v1/Patient/UpdatePatient",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "patient",
+        "Type": "FinalProject.Core.CQRS.Patient.Commands.Request.UpdatePatientCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.PayPalController",
+    "Method": "Cancel",
+    "RelativePath": "Api/v1/PayPal/Cancel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.PayPalController",
+    "Method": "CreatePayment",
+    "RelativePath": "Api/v1/PayPal/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "amount",
+        "Type": "System.Decimal",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.PayPalController",
+    "Method": "PaymentSuccess",
+    "RelativePath": "Api/v1/PayPal/Success",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "paymentId",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PayerID",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.ReservationController",
+    "Method": "CancelReservationById",
+    "RelativePath": "Api/v1/Reservation/CancelPatientReservationById",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "FinalProject.Core.CQRS.Reservation.Commands.Request.CancelPatientReservationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.ReservationController",
+    "Method": "GetAllReservations",
+    "RelativePath": "Api/v1/Reservation/GetAllReservations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reservations",
+        "Type": "FinalProject.Core.CQRS.Reservation.Queries.Request.GetDoctorReservationsQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.ReservationController",
+    "Method": "GetAllReservationsByPatientById",
+    "RelativePath": "Api/v1/Reservation/GetAllReservationsByPatientById",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FinalProject.Api.Controllers.ReservationController",
+    "Method": "GetReservationsById",
+    "RelativePath": "Api/v1/Reservation/PatientReservationsById",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reservation",
+        "Type": "FinalProject.Core.CQRS.Reservation.Commands.Request.MakeReservationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
