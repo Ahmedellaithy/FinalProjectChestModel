@@ -26,14 +26,14 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:5000",
+      "applicationUrl": "http://localhost:5001",
       "launchBrowser": true,
       "launchUrl": "swagger/index.html",
       "iisSettings": {
         "windowsAuthentication": false,
         "anonymousAuthentication": true,
         "iisExpress": {
-          "profileUrl": "http://localhost:5000"
+          "profileUrl": "http://localhost:5001"
         }
       }
     },

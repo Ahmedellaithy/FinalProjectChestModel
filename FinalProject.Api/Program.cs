@@ -17,6 +17,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
+//builder.WebHost.UseUrls("http://localhost:5000", "https://localhost:5001");
+
 builder.Services.AddControllers(options =>
 {
     options.Filters.Add<ValidationFilter>();
@@ -91,7 +93,6 @@ var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.MapOpenApi();
-    app.UseSwagger();
     app.UseSwaggerUI(options => options.SwaggerEndpoint("/openapi/v1.json", "FinalProject"));
 }
 

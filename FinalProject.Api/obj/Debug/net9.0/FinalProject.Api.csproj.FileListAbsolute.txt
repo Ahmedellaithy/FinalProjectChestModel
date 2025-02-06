@@ -354,4 +354,4 @@ C:\Users\Lenovo\OneDrive\Desktop\FinalProjectChestModel\FinalProjectChestModel\F
 C:\Users\Lenovo\OneDrive\Desktop\FinalProjectChestModel\FinalProjectChestModel\FinalProject.Api\obj\Debug\net9.0\FinalProject.Api.pdb
 C:\Users\Lenovo\OneDrive\Desktop\FinalProjectChestModel\FinalProjectChestModel\FinalProject.Api\obj\Debug\net9.0\FinalProject.Api.genruntimeconfig.cache
 C:\Users\Lenovo\OneDrive\Desktop\FinalProjectChestModel\FinalProjectChestModel\FinalProject.Api\obj\Debug\net9.0\ref\FinalProject.Api.dll
-C:\Users\Lenovo\OneDrive\Desktop\FinalProjectChestModel\FinalProjectChestModel\FinalProject.Api\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\OneDrive\Desktop\FinalProjectChestModel\FinalProjectChestModel\FinalProject.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
